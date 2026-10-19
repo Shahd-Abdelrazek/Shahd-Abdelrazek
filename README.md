@@ -47,7 +47,7 @@
 
 | Project | Description | Links |
 |---|---|---|
-| **Back-End REST APIs** | CRUD, weather service, and a full REST API with JWT auth & bcrypt (Node.js, Express, MongoDB) | [Code](https://github.com/Shahd-Abdelrazek?tab=repositories) |
+| **Shipping Management API** | Secure REST API with JWT auth, ownership-based access, public tracking, filtering & pagination (Node.js, Express, MongoDB) | [Code](https://github.com/Shahd-Abdelrazek/shipping-management-api) |
 | **Sweetella — Bakery** | Responsive bakery website (categories, carousel, login, FAQ) | [Code](https://github.com/Shahd-Abdelrazek/SWEETELLA) · [Live](https://shahd-abdelrazek.github.io/SWEETELLA/) |
 | **Sun&Palm — Sunglasses** | Responsive brand landing page with product catalog | [Code](https://github.com/Shahd-Abdelrazek/Sunglassess-Brand) · [Live](https://shahd-abdelrazek.github.io/Sunglassess-Brand/) |
 | **Forever Day — Wedding Planner** | Responsive planner, bilingual (EN/AR), dark mode | [Code](https://github.com/Shahd-Abdelrazek/Wedding-project) · [Live](https://shahd-abdelrazek.github.io/Wedding-project/) |
